@@ -1,4 +1,4 @@
-# go-template-project
+# go-project-boilerplate
 
 This is a starter template project for Go. With this I can start a project with git initialised so I don't have to create a new repo and the boilerplate is ready for me to start tinkering with it.
 
